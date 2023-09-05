@@ -22,7 +22,7 @@ const Navbar = () => {
                         <div className="offcanvas-body">
                             <ul className="navbar-nav justify-content-end flex-grow-1 pe-3 text-center">
                                 <li className="nav-item">
-                                    <Link className="nav-link text-primary" aria-current="page" to="/">Acceuil</Link>
+                                    <Link className="nav-link text-primary" aria-current="page" to="/">Accueil</Link>
                                 </li>
                                 <li className="nav-item">
                                     <Link className="nav-link text-primary" to="/contact">Contact</Link>
